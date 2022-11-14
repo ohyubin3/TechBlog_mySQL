@@ -15,13 +15,11 @@
 
 
 
-This is a repository in order to test the end points and routes of a given Social Media API.
-It allows manipulation of database using Insomnia program.
-You are able to FIND, UPDATE, and DELETE in order to manipulate User, Thoughts, and Reactions to thought datas.
 
 
 
-Please refer to <a href="https://drive.google.com/file/d/19qkTrU_6pediUAAFjW_T53Wqs9H11EOk/view">this</a> video for the use.
+
+Please refer to <a href="">this</a> video for the use.
 
 
 
