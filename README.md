@@ -19,8 +19,6 @@
 
 
 
-Please refer to <a href="">this</a> video for the use.
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
